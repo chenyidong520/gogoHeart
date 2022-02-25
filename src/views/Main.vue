@@ -22,6 +22,9 @@ export default {
     return {};
   },
   components: { CommonAside },
+  created(){
+  //  console.log(this.$router,this.$route)
+  }
 };
 </script>
 <style lang="less" scoped>
