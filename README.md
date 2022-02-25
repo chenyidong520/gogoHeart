@@ -23,4 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### first commit 已经配置成
+### first commit 已经配置成  当前的C建议
